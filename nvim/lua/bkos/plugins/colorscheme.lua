@@ -40,6 +40,6 @@ return {
       end,
     })
 
-    vim.cmd("colorscheme slate")
+    vim.cmd("colorscheme habamax")
   end,
 }
